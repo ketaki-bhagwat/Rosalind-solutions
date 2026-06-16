@@ -6,3 +6,4 @@ Solutions to selected Rosalind bioinformatics problems in Python (Jupyter notebo
 | Reverse Complement | REVC | String manipulation |
 | Counting Point Mutations | HAMM | Sequence comparison |
 | Mendel's First Law | IPRB | Probability |
+| Translating RNA to Protein | PROT | Translation |
