@@ -8,3 +8,4 @@ Solutions to selected Rosalind bioinformatics problems in Python (Jupyter notebo
 | Mendel's First Law | IPRB | Probability |
 | Translating RNA to Protein | PROT | Translation |
 | Finding a Motif in DNA | SUBS | String manipulation |
+| Consensus and Profile | CONS | Combinatorics |
